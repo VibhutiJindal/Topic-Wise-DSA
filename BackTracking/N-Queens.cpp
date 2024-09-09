@@ -1,3 +1,5 @@
+//Link to the problem
+//https://leetcode.com/problems/n-queens/description/
 class Solution {
 public:
     void solve(int col,vector<string> &board, vector<vector<string>>& ans,vector<int>&leftrow, vector<int>& ud,
